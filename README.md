@@ -1,2 +1,2 @@
-# 2D-Project-III
-game 2D cho môn học Project III
+# 2D-Dragon-Warrior
+game 2D về game Warrior
